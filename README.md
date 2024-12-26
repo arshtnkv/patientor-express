@@ -1,6 +1,6 @@
 # Patientor backend:<br> Практический проект на Express.js, TypeScript
 
-URL: [test.ru](https://test.ru/)
+URL: [https://patientor-react.vercel.app](https://patientor-react.vercel.app/)
 <br>
 FRONTEND: [https://github.com/arshtnkv/patientor-react](https://github.com/arshtnkv/patientor-react/)
 
